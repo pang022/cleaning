@@ -1,0 +1,13 @@
+{
+  "name": "cleaning-app",
+  "version": "1.0.0",
+  "description": "**Stack: HTML/CSS/JS + PHP + SQLite**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
